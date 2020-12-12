@@ -1,7 +1,4 @@
-# WELCOME TO TRAINING AND MAIN DOCUMENTATION REPO 
+# WELCOME TO TRAINING 
 
-## In here we focus on conducting documentation and technical writing related to our course 
-
-## Links for use
-* [Miro for mindstorm](https://miro.com/app/dashboard/)
-* [Lucid app for mindstorm](https://lucid.app/)
+## Here we focus on training things related to our course 
+* The 2 things in our course are Agile and Scrum
