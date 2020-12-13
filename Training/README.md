@@ -10,3 +10,4 @@
 ## Links for training
 * [A Scrum Blog](https://itviec.com/blog/agile-la-gi-scrum-la-gi/) - In Vietnamese
 * [Learn Git and Github with Tim](https://www.youtube.com/watch?v=DVRQoVRzMIY)
+* [Screen to Gif](https://dev.to/kelli/demo-your-app-in-your-github-readme-with-an-animated-gif-2o3c)
