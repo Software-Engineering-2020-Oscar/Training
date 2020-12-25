@@ -17,7 +17,7 @@
 ## Table of contents
 * [US_01](US_01.pdf): First techinal writing, first stage in Sprint - defining User stories
 * [UC_02](UC_02.pdf): Second techinal writing, getting started with Use cases
-* [UCD_03](): Third techinical writing, Use case description
+* [UCD_03](UCD_03.pdf): Third techinical writing, Use case description
 * [DD_04](): Fourth techinical writing, Deployment documentation
 * [HLR_05](): Fifth techinical writing, High Level Requirement
 * [SRS_06](): Sixth techinical writing, SRS Design
