@@ -19,4 +19,5 @@
 * [UC_02](UC_02.pdf): Second techinal writing, getting started with Use cases
 * [UCD_03](): Third techinical writing, Use case description
 * [DD_04](): Fourth techinical writing, Deployment documentation
-
+* [HLQ_05](): Fifth techinical writing, High Level Requirement
+* [SRS_06](): Sixth techinical writing, SRS Design
