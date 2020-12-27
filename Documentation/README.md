@@ -1,6 +1,7 @@
 ## Doc requirement list
-1) High Level Requirement /
-  Agile Sprint 1   
+~~1) High Level Requirement /
+  Agile Sprint 1 ~~   
+  
 2) SRS /
   Agile Sprint 2   
 3) Architecture Design /
