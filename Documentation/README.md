@@ -25,4 +25,5 @@
 * [SRS_06](): Sixth techinical writing, SRS Design
 * [CD_07](): Seventh techinical writing, Class Diagram
 * [SD_08](): Eightth techinical writing, Sequence Diagram
+* [SDA_09](): Eightth techinical writing, Archiecture and Screen Design
 
