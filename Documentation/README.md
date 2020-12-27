@@ -23,3 +23,6 @@
 * [DD_04](): Fourth techinical writing, Deployment documentation
 * [HLR_05](HLR_05.pdf): Fifth techinical writing, High Level Requirement
 * [SRS_06](): Sixth techinical writing, SRS Design
+* [CD_07](): Seventh techinical writing, Class Diagram
+* [SD_08](): Eightth techinical writing, Sequence Diagram
+
