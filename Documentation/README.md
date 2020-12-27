@@ -13,8 +13,9 @@
   Agile Sprint 5  
 6) Sequence Diagram /
   Agile Sprint 6   
-7) Database Design/
-  Agile Sprint 7
+
+~~7) Database Design/
+  Agile Sprint 7~~
   
 ## Table of contents
 * [US_01](US_01.pdf): First techinal writing, first stage in Sprint - defining User stories
