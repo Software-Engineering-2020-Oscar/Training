@@ -7,7 +7,7 @@
 * [HLR_05](HLR_05.pdf): Fifth techinical writing, High Level Requirement
 * [SRS_06](): Sixth techinical writing, SRS Design
 * [CD_07](): Seventh techinical writing, Class Diagram
-* [SD_08](): Eightth techinical writing, Sequence Diagram
-* [SDA_09](SDA_09.pdf): Eightth techinical writing, Archiecture and Screen Design
-* [DB_10](DB_10.pdf): Ninth technical writing, Database Design 
+* [SD_08](): Eighth techinical writing, Sequence Diagram
+* [SDA_09](SDA_09.pdf): Ninth techinical writing, Archiecture and Screen Design
+* [DB_10](DB_10.pdf): Tenth technical writing, Database Design 
 
