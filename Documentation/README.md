@@ -26,4 +26,5 @@
 * [CD_07](): Seventh techinical writing, Class Diagram
 * [SD_08](): Eightth techinical writing, Sequence Diagram
 * [SDA_09](): Eightth techinical writing, Archiecture and Screen Design
+* [DB_10](): Ninth technical writing, Database Design 
 
