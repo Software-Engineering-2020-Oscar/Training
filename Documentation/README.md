@@ -10,4 +10,4 @@
 * [SD_08](SD_08.pdf): Eighth techinical writing, Sequence Diagram
 * [SDA_09](SDA_09.pdf): Ninth techinical writing, Archiecture and Screen Design
 * [DB_10](DB_10.pdf): Tenth technical writing, Database Design 
-
+* [Job_Titles](Job_titles.pdf): Job titles for each members and Scrum team model play
