@@ -8,6 +8,11 @@
 * The 2 things in our course are Agile and Scrum
 
 ## Scrum steps
+
+<p align  = "center">
+  <img src = "https://www.web2market.com/wp-content/uploads/2016/01/Scrum-process.png"/>
+</p>
+
 - You may need get things started with those steps below if you want to apply Scrum model to your project
 1. Choose the product owner
   This is the person with the vision of what needs to be done. He or she inventories risks writes the stories that need to be done and checks what is feasible and what can be     done.
